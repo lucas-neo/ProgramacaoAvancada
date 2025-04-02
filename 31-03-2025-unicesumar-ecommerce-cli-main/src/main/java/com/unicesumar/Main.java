@@ -98,7 +98,7 @@ public class Main {
                     ;
             }
 
-        } while (option != 3);
+        } while (option != 5);
 
         scanner.close();
         try {
